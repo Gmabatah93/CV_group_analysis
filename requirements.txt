@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+ultralytics
+supervision
+numpy
+scikit-learn
