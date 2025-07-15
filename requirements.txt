@@ -4,3 +4,7 @@ ultralytics
 supervision
 numpy
 scikit-learn
+pandas
+matplotlib
+seaborn
+networkx
